@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe72a00-3634-42b2-bad2-957e396ed520" name="Default Changelist" comment="" />
+    <list default="true" id="fbe72a00-3634-42b2-bad2-957e396ed520" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Project2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k77vjGuxvuAu8g12DayD4hme4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605040011493</updated>
       <workItem from="1605040013751" duration="2760000" />
-      <workItem from="1605110752466" duration="2544000" />
+      <workItem from="1605110752466" duration="3350000" />
     </task>
     <servers />
   </component>
@@ -53,5 +65,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1605117053383" />
+    <state x="531" y="376" key="Github.CreateGistDialog" timestamp="1605118581211">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="531" y="376" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1605118581211" />
+    <state x="586" y="354" key="Github.ShareDialog" timestamp="1605118594246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="586" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1605118594246" />
+    <state x="488" y="162" key="Github.UntrackedFilesDialog" timestamp="1605118617700">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="488" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605118617700" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605118635491">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605118635491" />
   </component>
 </project>
